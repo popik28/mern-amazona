@@ -12,3 +12,4 @@
 8. Fetch-Products-From-Backend
 9. Manage-State-By-Reducer-Hook
 10. Add-bootstrap-UI-Framework
+11. Create Product-and-Rating-Component
