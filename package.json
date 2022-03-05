@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "mongoose": "^6.2.4",
     "use-reducer-logger": "^1.0.2"
   }
 }
